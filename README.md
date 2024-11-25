@@ -16,7 +16,13 @@ A Smart ATS (Applicant Tracking System) Resume Tracker that uses Google's Gemini
 
 ## SMART ATS RESUME TRACKER USING LLM
 
+![image alt](https://github.com/psomkar01/Smart-ATS-Resume-Tracker-Using-LLM/blob/8848ea920a697b1b1945e2aa6e6b9c931bcef9fb/ats%201.png)
 
+![image alt](https://github.com/psomkar01/Smart-ATS-Resume-Tracker-Using-LLM/blob/8848ea920a697b1b1945e2aa6e6b9c931bcef9fb/ats%202.png)
+
+![image alt](https://github.com/psomkar01/Smart-ATS-Resume-Tracker-Using-LLM/blob/8848ea920a697b1b1945e2aa6e6b9c931bcef9fb/ats%203.png)
+
+![image alt](https://github.com/psomkar01/Smart-ATS-Resume-Tracker-Using-LLM/blob/8848ea920a697b1b1945e2aa6e6b9c931bcef9fb/ats%204.png)
 
 ## Technologies Used
 
