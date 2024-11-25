@@ -14,6 +14,10 @@ A Smart ATS (Applicant Tracking System) Resume Tracker that uses Google's Gemini
 
 ---
 
+## SMART ATS RESUME TRACKER USING LLM
+
+
+
 ## Technologies Used
 
 - **Streamlit**: A Python framework for building interactive web applications, used for the frontend.
