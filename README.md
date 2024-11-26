@@ -1,4 +1,4 @@
-# Smart ATS Resume Tracker Using GEMINI AI
+# Smart ATS Resume Tracker 
 
 A Smart ATS (Applicant Tracking System) Resume Tracker that uses Google's Gemini AI model to evaluate and analyze resumes against job descriptions. The application provides feedback on the resume’s strengths, areas for improvement, and keyword analysis to help candidates optimize their resumes for better matching with job roles.
 
@@ -14,7 +14,7 @@ A Smart ATS (Applicant Tracking System) Resume Tracker that uses Google's Gemini
 
 ---
 
-## SMART ATS RESUME TRACKER USING GEMINI AI
+## SMART ATS RESUME TRACKER 
 
 ![image alt](https://github.com/psomkar01/Smart-ATS-Resume-Tracker-Using-LLM/blob/8848ea920a697b1b1945e2aa6e6b9c931bcef9fb/ats%201.png)
 
