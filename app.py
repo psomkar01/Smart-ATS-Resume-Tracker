@@ -39,9 +39,9 @@ def input_pdf_setup(uploaded_file):
 
 ## Streamlit App
 
-st.set_page_config(page_title="ATS RESUME TRACKER")
+st.set_page_config(page_title="Resume Applicant Tracking System Using LLM")
 
-st.header("SMART ATS RESUME TRACKER USING LLM")
+st.header("Resume Applicant Tracking System Using LLM")
 st.subheader('Resume Analyzer')
 input_text = st.text_input("Job Description: ", key="input")
 uploaded_file = st.file_uploader("Upload your Resume(PDF)...", type=["pdf"])
